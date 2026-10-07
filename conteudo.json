@@ -1,0 +1,2314 @@
+{
+  "lessons": [
+    {
+      "n": 2,
+      "title": "Antecipar e preparar",
+      "pages": "28–32",
+      "goal": "Antecipar os riscos e ter uma equipa preparada antes do nascimento.",
+      "equipment": "Berço de calor radiante, lista de equipamento, reanimador e balão autoinflável de reserva, aspiração, misturador de gases, oxímetro, material de via aérea e acesso vascular.",
+      "tasks": [
+        "Fazer as quatro perguntas: idade gestacional, características do líquido amniótico, riscos adicionais e plano de gestão do cordão umbilical.",
+        "Convocar os profissionais de acordo com o risco, identificar o líder e combinar como pedir ajuda.",
+        "Realizar um briefing com funções, contingências e responsável pelo registo.",
+        "Verificar fisicamente o aquecimento, a aspiração, a ventilação, o oxigénio, a monitorização, a via aérea e os medicamentos; não basta enumerá-los.",
+        "Preparar e testar o dispositivo de ventilação; localizar um dispositivo de reserva."
+      ],
+      "teacher": [
+        "Representar a equipa obstétrica e responder às quatro perguntas quando o formando as colocar.",
+        "Demonstrar uma verificação organizada e observar depois cada formando, sem realizar a tarefa por ele.",
+        "No caso de 29 semanas, pedir que explique a proteção térmica e os ajustes específicos para o prematuro."
+      ],
+      "criteria": [
+        "Coloca as quatro perguntas e transforma as respostas num plano.",
+        "Testa o equipamento e deteta uma ligação ou preparação incompleta.",
+        "Distribui as tarefas e verbaliza o mecanismo de pedido de ajuda."
+      ],
+      "debrief": [
+        "Que risco alterou a composição da equipa?",
+        "O que verificou realmente e o que tomou como garantido?"
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Passos iniciais",
+      "pages": "33–40",
+      "goal": "Escolher o local de prestação de cuidados e identificar atempadamente a necessidade de ventilação.",
+      "equipment": "Manequim, berço de calor radiante, panos secos, gorro, estetoscópio, oxímetro pré-ductal, misturador de gases e dispositivo de oxigénio de fluxo livre.",
+      "tasks": [
+        "Avaliar ao nascer: se é de termo, o tónus e a respiração ou o choro.",
+        "Se estiver vigoroso, prestar cuidados em contacto pele a pele, secar, posicionar a via aérea e vigiar.",
+        "Se necessitar de intervenção, fornecer calor, secar, retirar panos molhados, posicionar e estimular brevemente; remover secreções apenas se necessário.",
+        "Avaliar a respiração e a frequência cardíaca; reconhecer que a apneia exige ventilação sem esperar pela medição da FC.",
+        "Colocar o sensor do oxímetro na mão ou no punho direitos, se indicado, e ajustar o oxigénio à idade em minutos e à saturação-alvo."
+      ],
+      "teacher": [
+        "Informar sobre o tónus e a respiração de acordo com o que é possível observar no manequim.",
+        "Fornecer a FC quando for avaliada e a SpO₂ quando o sensor estiver colocado e houver sinal fiável.",
+        "Distinguir cianose com respiração eficaz de apneia; a resposta esperada é diferente."
+      ],
+      "criteria": [
+        "Seleciona corretamente o contacto pele a pele ou o berço de calor radiante.",
+        "Evita a aspiração por rotina, mesmo na presença de mecónio.",
+        "Reconhece a apneia e inicia a transição para ventilação sem a atrasar."
+      ],
+      "debrief": [
+        "Que achado determinou a transferência para o berço?",
+        "Porque é que a cor, por si só, não determina a administração de oxigénio?"
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Ventilação e máscara laríngea",
+      "pages": "41–52",
+      "goal": "Conseguir ventilação eficaz e utilizar uma via aérea alternativa quando necessário.",
+      "equipment": "Reanimador, máscaras, misturador de gases, manómetro, oxímetro, ECG, máscara laríngea neonatal, detetor de CO₂ e sonda orogástrica.",
+      "tasks": [
+        "Iniciar ventilação nos primeiros 60 segundos de vida se houver apneia, respiração agónica ou FC <100/min após os passos iniciais.",
+        "Nos casos de termo do kit: iniciar com ar ambiente, PIP de 25 cm H₂O, PEEP de 5 cm H₂O se o equipamento o permitir e 30–60 ventilações/min; ajustar à resposta.",
+        "Pedir a um colega que informe sobre a tendência da FC e o movimento torácico.",
+        "Corrigir a vedação, a posição, a obstrução, a abertura da boca ou a pressão conforme a causa; reavaliar após a intervenção e utilizar uma via aérea alternativa se a ventilação continuar ineficaz.",
+        "Praticar a preparação, inserção, confirmação, fixação e remoção da máscara laríngea de acordo com o dispositivo.",
+        "Manter ventilação eficaz durante 30 segundos e reavaliar a FC; reduzir progressivamente o apoio apenas se a respiração for suficiente e a FC >100/min.",
+        "Praticar a colocação da sonda orogástrica e a opção de CPAP do kit quando adequado à função e ao protocolo."
+      ],
+      "teacher": [
+        "Demonstrar em pares: uma pessoa ventila e outra avalia a resposta; depois trocar de funções.",
+        "Informar se há movimento torácico e se a FC aumenta; não melhorar o estado do manequim apenas porque passou algum tempo.",
+        "Utilizar MR SOPA como correções orientadas pela avaliação, sem impor pausas de duração fixa entre letras.",
+        "Na prática orientada pode corrigir; na simulação integrada reserve a análise para o debriefing, salvo risco ou bloqueio."
+      ],
+      "criteria": [
+        "Consegue ventilação eficaz antes de avançar para compressões.",
+        "Deteta e corrige uma fuga ou obstrução.",
+        "Coloca e confirma uma máscara laríngea, ou presta assistência dentro do seu âmbito profissional.",
+        "Distingue ventilação, oxigénio de fluxo livre e CPAP."
+      ],
+      "debrief": [
+        "Que dado confirmou a eficácia da ventilação?",
+        "Quando decidiu mudar de interface?"
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Intubação endotraqueal",
+      "pages": "53–63",
+      "goal": "Intubar ou prestar assistência, verificar a posição e reconhecer uma obstrução.",
+      "equipment": "Laringoscópio, lâminas, tubos endotraqueais (TET) adequados, estilete opcional, detetor de CO₂, tabela de profundidade, material de fixação e aspirador traqueal.",
+      "tasks": [
+        "Preparar o equipamento, selecionar o TET e a lâmina e estimar a profundidade com a tabela ou a medição indicada no manual.",
+        "Praticar em pares as funções de quem intuba e de quem presta assistência, de acordo com as competências autorizadas.",
+        "Limitar as interrupções; o assistente controla a FC e o tempo e avisa se a tentativa atingir 30 segundos.",
+        "Confirmar a posição através do CO₂ expirado e da resposta da FC, juntamente com movimento torácico e auscultação bilateral; verificar profundidade e fixação.",
+        "Se a colocação falhar, retirar e restabelecer a ventilação com máscara; reorganizar a tentativa seguinte ou a alternativa.",
+        "Perante ventilação ineficaz apesar de posição correta e suspeita de obstrução, praticar aspiração traqueal e restabelecer a ventilação. Não aspirar a traqueia por rotina devido à presença de mecónio."
+      ],
+      "teacher": [
+        "Demonstrar separadamente as ações do operador e do assistente.",
+        "Informar se o tubo está corretamente colocado e se há movimento torácico, CO₂ e resposta cardíaca.",
+        "Uma FC muito baixa pode originar um resultado de CO₂ falsamente negativo: não interpretar um único achado isoladamente.",
+        "Na prática de obstrução, confirmar explicitamente a posição correta antes de apresentar o indício de obstrução."
+      ],
+      "criteria": [
+        "Prepara e coordena a intubação sem interrupções desnecessárias.",
+        "Verifica a ventilação e a posição através de vários sinais.",
+        "Distingue colocação incorreta de possível obstrução.",
+        "Mantém a ventilação se persistir apneia, mesmo que a FC recupere."
+      ],
+      "debrief": [
+        "Como verificaram a posição?",
+        "O que fez o assistente para proteger a ventilação?"
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Compressões torácicas",
+      "pages": "64–69",
+      "goal": "Coordenar as compressões com a ventilação depois de assegurar ventilação eficaz.",
+      "equipment": "Manequim para compressões, via aérea alternativa, reanimador, oxigénio, ECG, oxímetro e cronómetro.",
+      "tasks": [
+        "Confirmar FC <60/min apesar de pelo menos 30 segundos de ventilação eficaz com movimento torácico, preferencialmente através de TET.",
+        "Assegurar uma via aérea alternativa, pedir ajuda e aumentar o oxigénio para 100% ao iniciar compressões.",
+        "Utilizar dois polegares com as mãos a envolver o tórax, no terço inferior do esterno, com profundidade de um terço do diâmetro anteroposterior, permitindo a expansão completa do tórax.",
+        "Coordenar 3 compressões e 1 ventilação por ciclo de 2 segundos: 90 compressões e 30 ventilações por minuto; contar em voz alta.",
+        "Reavaliar após 60 segundos de compressões coordenadas com ventilação, com uma pausa breve; continuar a ventilar.",
+        "Suspender as compressões quando a FC ≥60/min e manter a ventilação conforme a respiração e a FC; ajustar o oxigénio à saturação.",
+        "Preparar acesso vascular e adrenalina se a FC permanecer <60/min."
+      ],
+      "teacher": [
+        "Garantir que cada formando pratica compressões e ventilação, além de liderar uma ronda.",
+        "Revelar a recuperação da FC apenas depois de verificar a técnica e a eficácia da ventilação.",
+        "Observar profundidade, expansão torácica, sincronização e duração real do ciclo."
+      ],
+      "criteria": [
+        "Não inicia compressões com ventilação ineficaz.",
+        "Mantém a relação 3:1 e uma técnica adequada.",
+        "Reavalia após 60 segundos e suspende as compressões atempadamente."
+      ],
+      "debrief": [
+        "O que verificaram antes de iniciar compressões?",
+        "A contagem facilitou a coordenação ou gerou confusão?"
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Acesso vascular e medicação",
+      "pages": "70–77",
+      "goal": "Administrar adrenalina com segurança e reconhecer quando considerar expansão de volume.",
+      "equipment": "Modelo de cordão umbilical, cateter venoso umbilical (CVU), material estéril, torneiras, seringas, etiquetas e soluções de simulação claramente identificadas.",
+      "tasks": [
+        "Reconhecer FC <60/min apesar de ventilação eficaz e 60 segundos de compressões coordenadas; preparar acesso venoso umbilical de emergência.",
+        "Purgar o sistema, realizar antissepsia, inserir apenas até obter refluxo sanguíneo, assegurar o cateter e evitar a entrada de ar. Praticar sob supervisão.",
+        "Confirmar peso, fármaco, concentração, dose, volume, via e hora através de comunicação em circuito fechado.",
+        "Utilizar neste exercício a dose IV do kit: adrenalina 0,02 mg/kg de solução a 0,1 mg/mL (0,2 mL/kg), seguida de 3 mL de soro fisiológico.",
+        "Se ainda não houver acesso vascular, praticar a opção endotraqueal: 0,1 mg/kg (1 mL/kg de solução a 0,1 mg/mL); manter a ventilação. Não administrar por máscara laríngea.",
+        "Se persistir FC <60/min, administrar a dose intravascular ao obter acesso, mesmo que tenha sido administrada recentemente por TET; repetir por via IV a cada 3–5 minutos se continuar indicada.",
+        "Manter RCP e reavaliar 60 segundos após a dose IV neste guião de prática.",
+        "Considerar volume perante perda sanguínea conhecida ou suspeita e resposta insuficiente; no caso de 3 kg do kit, praticar a administração de 30 mL de soro fisiológico (10 mL/kg) em 5–10 minutos.",
+        "Planear a monitorização, o controlo térmico e da glicemia, a transferência e a comunicação com a família."
+      ],
+      "teacher": [
+        "Utilizar apenas fármacos e acessos simulados; cada formando deve calcular, preparar e confirmar uma dose ou prestar assistência de acordo com a sua função.",
+        "Para 3 kg: IV 0,06 mg = 0,6 mL; endotraqueal 0,3 mg = 3 mL; ambas com concentração de 0,1 mg/mL.",
+        "Não confundir 0,1 mg/mL com 1 mg/mL. Estas são doses didáticas do kit, não uma calculadora clínica.",
+        "Fornecer dados de perfusão e de possível perda sanguínea fetal para justificar volume; a hemorragia materna isolada não confirma hipovolemia neonatal."
+      ],
+      "criteria": [
+        "Indica adrenalina depois de ventilação e compressões eficazes.",
+        "Obtém acesso funcional sem ar e verifica a dose e a via.",
+        "Distingue as doses IV e endotraqueal.",
+        "Justifica o volume com base na suspeita de hipovolemia e na resposta clínica."
+      ],
+      "debrief": [
+        "Que medida evitou um erro de concentração ou de via?",
+        "Que evidência sustentou a administração de volume?"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "lesson": 2,
+      "id": "L2-H",
+      "title": "Antecipar e preparar",
+      "kind": "Competência",
+      "case": "Antecipar os riscos e ter uma equipa preparada antes do nascimento.",
+      "steps": [],
+      "end": "Cada formando demonstra as competências da sua função com pouca ou nenhuma orientação.",
+      "brief": "Revisão, demonstração do instrutor e prática individual supervisionada.",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "A obstetrícia informa que uma grávida de 38 semanas está em trabalho de parto ativo. O líquido amniótico está claro e não são conhecidos outros fatores de risco. O profissional responsável pelo recém-nascido deve preparar o local de cuidados e verificar o equipamento antes do nascimento.",
+        "initialState": "A fase pós-natal ainda não começa: este caso avalia antecipação, organização e verificação funcional do equipamento.",
+        "instructorNote": "A idade materna, o peso fetal e a via do parto não estão especificados nesta variante; não devem ser apresentados como dados do kit. Esta ficha utiliza um caso de referência; as restantes variantes da lição estão disponíveis nos botões abaixo.",
+        "source": "Caso do kit, pp. 28–32; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "38 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Sem riscos adicionais"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 3,
+      "id": "L3-H",
+      "title": "Passos iniciais",
+      "kind": "Competência",
+      "case": "Escolher o local de prestação de cuidados e identificar atempadamente a necessidade de ventilação.",
+      "steps": [],
+      "end": "Cada formando demonstra as competências da sua função com pouca ou nenhuma orientação.",
+      "brief": "Revisão, demonstração do instrutor e prática individual supervisionada.",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Uma grávida de 39 semanas, sem riscos adicionais e com líquido amniótico claro, está em trabalho de parto ativo para um nascimento vaginal. A equipa deve preparar-se para receber o recém-nascido e decidir onde realizar os cuidados iniciais.",
+        "initialState": "Ao nascer, o bebé tem bom tónus muscular e chora espontaneamente. Permanece junto da mãe durante os cuidados iniciais e a vigilância.",
+        "instructorNote": "O exercício consiste em reconhecer uma transição normal e evitar intervenções desnecessárias. Esta ficha utiliza um caso de referência; as restantes variantes da lição estão disponíveis nos botões abaixo.",
+        "source": "Caso do kit, pp. 33–40; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "39 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Sem riscos adicionais"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 4,
+      "id": "L4-H",
+      "title": "Ventilação e máscara laríngea",
+      "kind": "Competência",
+      "case": "Conseguir ventilação eficaz e utilizar uma via aérea alternativa quando necessário.",
+      "steps": [],
+      "end": "Cada formando demonstra as competências da sua função com pouca ou nenhuma orientação.",
+      "brief": "Revisão, demonstração do instrutor e prática individual supervisionada.",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Uma grávida com hipertensão gestacional teve o trabalho de parto induzido às 38 semanas. Durante o trabalho de parto observam-se desacelerações tardias; o líquido amniótico está claro. A equipa é convocada para receber o bebé num parto vaginal que progride rapidamente.",
+        "initialState": "O recém-nascido não respira nem chora e apresenta tónus diminuído. Após os passos iniciais mantém-se em apneia; se a FC for avaliada, é 60/min. Com ventilação facial inicialmente ineficaz, o instrutor pode revelar FC 40/min e ausência de movimento torácico conforme o guião.",
+        "instructorNote": "A recuperação depende de conseguir ventilação eficaz. A dificuldade respiratória que leva a CPAP e sonda orogástrica é uma opção posterior do kit. Esta ficha utiliza um caso de referência; as restantes variantes da lição estão disponíveis nos botões abaixo.",
+        "source": "Caso do kit, pp. 41–52; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "38 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Hipertensão gestacional, indução e desacelerações tardias"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 5,
+      "id": "L5-H",
+      "title": "Intubação endotraqueal",
+      "kind": "Competência",
+      "case": "Intubar ou prestar assistência, verificar a posição e reconhecer uma obstrução.",
+      "steps": [],
+      "end": "Cada formando demonstra as competências da sua função com pouca ou nenhuma orientação.",
+      "brief": "Revisão, demonstração do instrutor e prática individual supervisionada.",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Uma primigesta de 28 anos e 39 semanas está em trabalho de parto com padrão de frequência cardíaca fetal de categoria III. Apresenta febre e o líquido amniótico está claro. É solicitado à equipa neonatal que prepare a receção de um nascimento complicado.",
+        "initialState": "O recém-nascido nasce sem tónus e sem respiração. Se avaliada, a FC inicial é 40/min. Não há movimento torácico nem recuperação da FC com ventilação facial e correções; o cenário progride para uma via aérea alternativa.",
+        "instructorNote": "A via do nascimento não está especificada nesta variante; não deve ser atribuída uma cesariana como dado oficial. O bebé pode continuar em apneia mesmo que a FC recupere. Esta ficha utiliza um caso de referência; as restantes variantes da lição estão disponíveis nos botões abaixo.",
+        "source": "Caso do kit, pp. 53–63; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "39 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Padrão fetal de categoria III e febre materna"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 6,
+      "id": "L6-H",
+      "title": "Compressões torácicas",
+      "kind": "Competência",
+      "case": "Coordenar as compressões com a ventilação depois de assegurar ventilação eficaz.",
+      "steps": [],
+      "end": "Cada formando demonstra as competências da sua função com pouca ou nenhuma orientação.",
+      "brief": "Revisão, demonstração do instrutor e prática individual supervisionada.",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "A equipa neonatal é convocada para uma cesariana de emergência por bradicardia fetal nos últimos 3 minutos. Prevê-se um bebé de termo e o líquido amniótico está claro. A equipa organiza a receção e os recursos de reanimação avançada.",
+        "initialState": "O recém-nascido nasce sem tónus e sem respiração. A FC inicial é 40/min se avaliada. Após conseguir ventilação com movimento torácico e colocar uma via aérea alternativa, a FC permanece em 40/min; o caso permite avaliar a decisão de iniciar compressões e a coordenação com a ventilação.",
+        "instructorNote": "Neste caso a FC aumenta após 60 segundos de compressões e ventilação eficazes, pelo que não se força a administração de adrenalina se deixar de estar indicada. Esta ficha utiliza um caso de referência; as restantes variantes da lição estão disponíveis nos botões abaixo.",
+        "source": "Caso do kit, pp. 64–69; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "De termo"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Bradicardia fetal com 3 minutos de duração; cesariana de emergência"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 7,
+      "id": "L7-H",
+      "title": "Acesso vascular e medicação",
+      "kind": "Competência",
+      "case": "Administrar adrenalina com segurança e reconhecer quando considerar expansão de volume.",
+      "steps": [],
+      "end": "Cada formando demonstra as competências da sua função com pouca ou nenhuma orientação.",
+      "brief": "Revisão, demonstração do instrutor e prática individual supervisionada.",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "É solicitado à equipa neonatal que assista uma cesariana de emergência por prolapso do cordão umbilical e bradicardia fetal nos últimos 3 minutos. Prevê-se um bebé de termo com líquido amniótico claro. O peso estimado para os cálculos do exercício é 3 kg.",
+        "initialState": "O bebé nasce sem tónus e sem respiração. A FC é 50/min se avaliada e continua a diminuir para 30/min. Apesar de ventilação eficaz por via aérea alternativa e 60 segundos de compressões coordenadas, permanece abaixo de 60/min.",
+        "instructorNote": "O caso progride para acesso venoso umbilical e adrenalina. Se o instrutor utilizar a opção de volume, deve comunicar perda sanguínea conhecida ou suspeita e resposta insuficiente; este esclarecimento é uma adaptação pedagógica, não um diagnóstico confirmado apenas pelo prolapso. Esta ficha utiliza um caso de referência; as restantes variantes da lição estão disponíveis nos botões abaixo.",
+        "source": "Caso do kit, pp. 70–77; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "De termo; peso simulado 3 kg"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Prolapso do cordão e bradicardia fetal; cesariana de emergência"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 2,
+      "id": "L2-P1",
+      "title": "Preparar um nascimento de baixo risco",
+      "kind": "Prática",
+      "case": "Trabalho de parto ativo; organize a receção do recém-nascido.",
+      "steps": [
+        [
+          "Ao perguntar à obstetrícia",
+          "38 semanas, líquido claro, sem fatores adicionais. Plano de diferir a clampagem pelo menos 60 s se não necessitar de reanimação imediata.",
+          "Coloca as quatro perguntas e determina os profissionais necessários."
+        ],
+        [
+          "Ao preparar a estação",
+          "O equipamento está disponível; o instrutor observa se é testado, e não apenas enumerado.",
+          "Verifica aquecimento, aspiração, ventilação e monitorização; combina como pedir ajuda."
+        ]
+      ],
+      "end": "Equipamento pronto e plano verbalizado antes do nascimento.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "A obstetrícia informa que uma grávida de 38 semanas está em trabalho de parto ativo. O líquido amniótico está claro e não são conhecidos outros fatores de risco. O profissional responsável pelo recém-nascido deve preparar o local de cuidados e verificar o equipamento antes do nascimento.",
+        "initialState": "A fase pós-natal ainda não começa: este caso avalia antecipação, organização e verificação funcional do equipamento.",
+        "instructorNote": "A idade materna, o peso fetal e a via do parto não estão especificados nesta variante; não devem ser apresentados como dados do kit.",
+        "source": "Caso do kit, pp. 28–32; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "38 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Sem riscos adicionais"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 2,
+      "id": "L2-P2",
+      "title": "Preparar um nascimento às 29 semanas",
+      "kind": "Prática",
+      "case": "Prevê-se um nascimento prematuro.",
+      "steps": [
+        [
+          "Ao perguntar à obstetrícia",
+          "29 semanas, líquido claro, pré-eclâmpsia. Acordar o plano do cordão de acordo com o estado e a necessidade de reanimação.",
+          "Convoca profissionais com competências avançadas e distribui funções."
+        ],
+        [
+          "Antes do nascimento",
+          "É pedido que explique como evitará a perda de calor.",
+          "Prepara envoltório de plástico, gorro, calor radiante e recursos térmicos; verifica ajustes para o prematuro e transferência."
+        ]
+      ],
+      "end": "Briefing completo e equipamento adaptado à prematuridade. Esta ficha avalia a preparação; não desenvolve toda a reanimação do prematuro.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Prevê-se o nascimento de um bebé de 29 semanas de uma grávida com pré-eclâmpsia e líquido amniótico claro. A equipa neonatal é convocada para preparar a receção do prematuro, incluindo proteção térmica, dispositivos de ventilação e um plano de cuidados posteriores.",
+        "initialState": "O bebé ainda não nasceu. O instrutor observa a seleção de recursos, o briefing e a preparação específica para a prematuridade.",
+        "instructorNote": "Não é atribuída frequência cardíaca nem peso exato: estes dados não são fornecidos neste cenário de preparação.",
+        "source": "Caso do kit, pp. 28–32; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "29 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Pré-eclâmpsia"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 3,
+      "id": "L3-P1",
+      "title": "Recém-nascido de termo vigoroso junto da mãe",
+      "kind": "Prática",
+      "case": "Parto vaginal às 39 semanas, líquido claro, sem outros riscos.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Bom tónus e choro espontâneo.",
+          "Avalia se é de termo, o tónus e a respiração; mantém junto da mãe."
+        ],
+        [
+          "Durante os cuidados iniciais",
+          "Continua a respirar e mantém atividade.",
+          "Seca, posiciona, cobre e vigia durante o contacto pele a pele e o plano de clampagem."
+        ]
+      ],
+      "end": "Cuidados de rotina com vigilância contínua.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Uma grávida de 39 semanas, sem riscos adicionais e com líquido amniótico claro, está em trabalho de parto ativo para um nascimento vaginal. A equipa deve preparar-se para receber o recém-nascido e decidir onde realizar os cuidados iniciais.",
+        "initialState": "Ao nascer, o bebé tem bom tónus muscular e chora espontaneamente. Permanece junto da mãe durante os cuidados iniciais e a vigilância.",
+        "instructorNote": "O exercício consiste em reconhecer uma transição normal e evitar intervenções desnecessárias.",
+        "source": "Caso do kit, pp. 33–40; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "39 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Sem riscos adicionais"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 3,
+      "id": "L3-P2",
+      "title": "Mecónio e cianose persistente",
+      "kind": "Prática",
+      "case": "41 semanas, líquido com mecónio; equipa de duas pessoas.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Bom tónus e respiração; pode inicialmente permanecer em contacto pele a pele.",
+          "Presta cuidados iniciais e vigia, sem aspiração por rotina."
+        ],
+        [
+          "Aos 4 minutos, após avaliar e colocar o sensor",
+          "Cianose marcada; respira sem dificuldade; FC 140/min; SpO₂ fiável de 68%.",
+          "Administra oxigénio de fluxo livre, inicialmente a 30% no exercício do kit, e titula para o alvo por minuto."
+        ],
+        [
+          "Após uma intervenção adequada",
+          "A saturação aumenta em direção ao alvo; o instrutor informa a idade em minutos e a tendência.",
+          "Reavalia, reduz gradualmente o oxigénio quando adequado e comunica o plano."
+        ]
+      ],
+      "end": "Respiração e saturação estáveis, vigilância e comunicação com a família.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Uma grávida de 41 semanas apresenta líquido amniótico com mecónio e não tem outros riscos conhecidos. Dois profissionais preparam-se para assistir o recém-nascido no parto vaginal.",
+        "initialState": "O bebé nasce vigoroso, com bom tónus e respiração espontânea. Aos 4 minutos surge cianose marcada; respira sem dificuldade, a FC é 140/min e a SpO₂ fiável, obtida após colocar o sensor, é 68%.",
+        "instructorNote": "O instrutor apresenta primeiro o nascimento vigoroso e revela a cianose aos 4 minutos; não anuncia de início que a equipa terá de administrar oxigénio.",
+        "source": "Caso do kit, pp. 33–40; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "41 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido com mecónio"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Mecónio como único risco adicional"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 3,
+      "id": "L3-P3",
+      "title": "Responde aos passos iniciais",
+      "kind": "Prática",
+      "case": "De termo, líquido claro, desacelerações fetais repetidas.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Hipotonia e ausência de choro ou respiração.",
+          "Transfere para o berço de calor radiante e realiza os passos iniciais sem demora."
+        ],
+        [
+          "Após os passos iniciais",
+          "Chora; FC 120/min.",
+          "Reavalia a estabilidade e considera o regresso ao contacto pele a pele com vigilância."
+        ]
+      ],
+      "end": "Respiração eficaz, FC normal e plano de vigilância.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "É solicitada assistência neonatal para um parto vaginal de termo com líquido amniótico claro. Nos últimos 15 minutos observaram-se desacelerações fetais repetidas. A equipa prepara-se e recebe o bebé.",
+        "initialState": "Ao nascer, o recém-nascido não tem bom tónus e não respira nem chora. Após os passos iniciais começa a chorar e a FC é 120/min.",
+        "instructorNote": "O instrutor comunica a resposta apenas depois de observar os passos iniciais; a evolução posterior permite avaliar o regresso ao contacto pele a pele.",
+        "source": "Caso do kit, pp. 33–40; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "De termo"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Desacelerações repetidas nos últimos 15 minutos"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 3,
+      "id": "L3-P4",
+      "title": "Prematuro tardio que permanece em apneia",
+      "kind": "Prática",
+      "case": "36 semanas, líquido claro, febre materna.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Hipotonia e apneia.",
+          "Realiza os passos iniciais no berço de calor radiante."
+        ],
+        [
+          "Após os passos iniciais",
+          "Persiste apneia; FC 70/min se solicitada.",
+          "Reconhece a necessidade de ventilação e pede ajuda; não prolonga a estimulação."
+        ]
+      ],
+      "end": "Identifica e inicia a transição para ventilação. O exercício isolado do kit termina aqui; em cuidados reais deve continuar sem pausa.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Uma grávida de 36 semanas com febre materna e líquido amniótico claro está em trabalho de parto. A equipa prepara-se para um parto vaginal e para receber um prematuro tardio.",
+        "initialState": "O bebé nasce hipotónico e sem respiração ou choro. Permanece em apneia após os passos iniciais; se a FC for avaliada, é 70/min.",
+        "instructorNote": "A prática isolada termina ao identificar a necessidade de ventilação; numa simulação integrada deve continuar imediatamente com ventilação e a evolução correspondente.",
+        "source": "Caso do kit, pp. 33–40; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "36 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Febre materna"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 4,
+      "id": "L4-P1",
+      "title": "Ventilação com risco conhecido",
+      "kind": "Prática",
+      "case": "38 semanas, hipertensão gestacional e desacelerações tardias; líquido claro.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Sem respiração eficaz e com tónus diminuído.",
+          "Realiza os passos iniciais, pede ajuda e inicia ventilação antes dos 60 s."
+        ],
+        [
+          "Se a FC não aumentar",
+          "O instrutor indica ausência de movimento torácico e mantém a bradicardia até a ventilação ser corrigida.",
+          "Identifica fuga ou obstrução e aplica as correções adequadas."
+        ],
+        [
+          "Após 30 s de ventilação eficaz",
+          "FC 120/min, esforço ocasional; depois FC 140/min e respiração crescente.",
+          "Mantém o apoio até haver respiração suficiente e reduz-o gradualmente."
+        ],
+        [
+          "Com respiração eficaz mas hipoxemia",
+          "O instrutor fornece SpO₂ fiável e idade em minutos para avaliar a necessidade de oxigénio.",
+          "Titula o oxigénio de fluxo livre e planeia a monitorização."
+        ],
+        [
+          "Opção do kit",
+          "Surge depois gemido e dificuldade respiratória com FC 140/min.",
+          "Considera CPAP de 5 cm H₂O e sonda OG de acordo com a função, o protocolo e a avaliação; não substitui a ventilação se houver apneia."
+        ]
+      ],
+      "end": "Estabilidade ou apoio respiratório adequado com plano de cuidados posteriores.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Uma grávida com hipertensão gestacional teve o trabalho de parto induzido às 38 semanas. Durante o trabalho de parto observam-se desacelerações tardias; o líquido amniótico está claro. A equipa é convocada para receber o bebé num parto vaginal que progride rapidamente.",
+        "initialState": "O recém-nascido não respira nem chora e apresenta tónus diminuído. Após os passos iniciais mantém-se em apneia; se a FC for avaliada, é 60/min. Com ventilação facial inicialmente ineficaz, o instrutor pode revelar FC 40/min e ausência de movimento torácico conforme o guião.",
+        "instructorNote": "A recuperação depende de conseguir ventilação eficaz. A dificuldade respiratória que leva a CPAP e sonda orogástrica é uma opção posterior do kit.",
+        "source": "Caso do kit, pp. 41–52; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "38 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Hipertensão gestacional, indução e desacelerações tardias"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 4,
+      "id": "L4-P2",
+      "title": "Apneia inesperada: pedir ajuda",
+      "kind": "Prática",
+      "case": "39 semanas, líquido claro, sem riscos. Uma pessoa responsável pelo recém-nascido.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Hipotonia e apneia; FC 70/min se avaliada.",
+          "Realiza os passos iniciais, pede ajuda e inicia ventilação sem esperar pela equipa."
+        ],
+        [
+          "Ao avaliar a resposta",
+          "FC 70/min sem aumento e sem movimento torácico.",
+          "Corrige a ventilação; à chegada do assistente atribui-lhe a avaliação da FC, do tórax e do oxímetro."
+        ],
+        [
+          "Após 30 s de ventilação com movimento torácico",
+          "FC 120/min, esforço crescente; depois FC 140/min e respiração regular.",
+          "Reduz progressivamente a ventilação, se adequado, e monitoriza."
+        ]
+      ],
+      "end": "Ventilação eficaz, pedido de ajuda atempado e passagem de informação à equipa que chega.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "É assistido um parto vaginal às 39 semanas, com líquido amniótico claro e sem fatores de risco conhecidos. Inicialmente há apenas um profissional qualificado responsável pelo recém-nascido, que conhece o mecanismo de pedido de ajuda da unidade.",
+        "initialState": "O bebé nasce hipotónico, sem respiração nem choro. Persiste apneia após os passos iniciais e, se avaliada, a FC é 70/min. A ventilação facial inicialmente não move o tórax nem aumenta a FC.",
+        "instructorNote": "O cenário exige responder a uma necessidade inesperada sem esperar pela chegada de ajuda; o instrutor representa os profissionais adicionais quando são convocados.",
+        "source": "Caso do kit, pp. 41–52; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "39 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Sem riscos conhecidos; uma pessoa inicialmente responsável pelo recém-nascido"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 4,
+      "id": "L4-P3",
+      "title": "Resgate com máscara laríngea",
+      "kind": "Prática",
+      "case": "40 semanas, desacelerações fetais; líquido claro.",
+      "steps": [
+        [
+          "Após os passos iniciais",
+          "Apneia, FC 70/min; a ventilação com máscara facial não produz resposta adequada.",
+          "Corrige a ventilação e identifica a necessidade de via aérea alternativa."
+        ],
+        [
+          "Com correções sem resposta suficiente",
+          "FC cerca de 60/min sem aumento; pode não haver sinal do oxímetro.",
+          "Prepara e insere a máscara laríngea; mantém o apoio enquanto se organiza."
+        ],
+        [
+          "Se corretamente colocada",
+          "Movimento simétrico, sons bilaterais e CO₂; após 30 s de ventilação eficaz, FC 120/min.",
+          "Confirma, fixa e ventila; avalia a recuperação respiratória."
+        ],
+        [
+          "Durante a recuperação",
+          "FC 140/min, choro e respiração regular.",
+          "Reduz o apoio e retira o dispositivo quando adequado; vigia."
+        ]
+      ],
+      "end": "Ventilação eficaz através de máscara laríngea e plano posterior.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Uma grávida de 40 semanas apresenta desacelerações fetais nos últimos 20 minutos e líquido amniótico claro. A equipa prepara-se para o parto vaginal e para eventual necessidade de apoio respiratório.",
+        "initialState": "O bebé nasce com tónus diminuído, sem respiração nem choro. A FC é 70/min se avaliada. A ventilação com máscara facial e as correções não produzem resposta suficiente; a FC mantém-se perto de 60/min antes de recorrer a uma via aérea alternativa.",
+        "instructorNote": "O instrutor determina a resposta à ventilação e apresenta a recuperação quando a máscara laríngea proporciona ventilação eficaz; não deve antecipar a escolha do dispositivo.",
+        "source": "Caso do kit, pp. 41–52; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "40 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Desacelerações nos últimos 20 minutos"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 5,
+      "id": "L5-P1",
+      "title": "Intubação por ventilação ineficaz",
+      "kind": "Prática",
+      "case": "39 semanas, padrão fetal de categoria III e febre materna; líquido claro.",
+      "steps": [
+        [
+          "Após os passos iniciais",
+          "Apneia, FC 40/min, sem resposta à ventilação facial ineficaz.",
+          "Ventila, corrige e prepara a intubação com assistente."
+        ],
+        [
+          "Durante a tentativa",
+          "O instrutor observa a técnica; o assistente informa a FC e o tempo.",
+          "Intuba ou presta assistência; restabelece a ventilação se a tentativa falhar."
+        ],
+        [
+          "Após colocação correta",
+          "CO₂ detetável, movimento simétrico e FC 70/min em aumento.",
+          "Confirma a profundidade e fixa; mantém a ventilação."
+        ],
+        [
+          "Após mais 30 s de ventilação eficaz",
+          "FC >100/min, mas mantém-se em apneia.",
+          "Mantém a ventilação e organiza os cuidados pós-reanimação."
+        ]
+      ],
+      "end": "Via aérea confirmada e apoio mantido até à transferência.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Uma primigesta de 28 anos e 39 semanas está em trabalho de parto com padrão de frequência cardíaca fetal de categoria III. Apresenta febre e o líquido amniótico está claro. É solicitado à equipa neonatal que prepare a receção de um nascimento complicado.",
+        "initialState": "O recém-nascido nasce sem tónus e sem respiração. Se avaliada, a FC inicial é 40/min. Não há movimento torácico nem recuperação da FC com ventilação facial e correções; o cenário progride para uma via aérea alternativa.",
+        "instructorNote": "A via do nascimento não está especificada nesta variante; não deve ser atribuída uma cesariana como dado oficial. O bebé pode continuar em apneia mesmo que a FC recupere.",
+        "source": "Caso do kit, pp. 53–63; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "39 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Padrão fetal de categoria III e febre materna"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 5,
+      "id": "L5-P2",
+      "title": "Obstrução da via aérea",
+      "kind": "Prática",
+      "case": "37 semanas, padrão fetal de categoria III e hipertensão crónica; líquido claro.",
+      "steps": [
+        [
+          "Após ventilação e correções",
+          "Apneia e FC 40/min; sem melhoria.",
+          "Prepara e tenta a intubação."
+        ],
+        [
+          "Após confirmar a posição do tubo",
+          "O instrutor confirma a posição correta, mas não há movimento torácico, sons ou CO₂.",
+          "Revê o sistema e a posição; suspeita de obstrução e utiliza o aspirador traqueal se indicado."
+        ],
+        [
+          "Após desobstruir a via aérea e restabelecer ventilação",
+          "Há CO₂ e FC 60–70/min em aumento.",
+          "Reintuba com tubo limpo ou restabelece a ventilação por uma alternativa eficaz; confirma e fixa."
+        ],
+        [
+          "Com ventilação contínua",
+          "FC >100/min; persiste apneia.",
+          "Mantém o apoio, ajusta o oxigénio e prepara a transferência."
+        ]
+      ],
+      "end": "Obstrução resolvida e ventilação eficaz, sem aspiração por rotina.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Uma primigesta de 39 anos e 37 semanas com hipertensão crónica apresenta padrão fetal de categoria III durante o trabalho de parto. O líquido amniótico está claro. A equipa é convocada para antecipar uma possível reanimação neonatal.",
+        "initialState": "O bebé está em apneia e a FC é 40/min, sem aumento com ventilação facial ineficaz. Após uma intubação que o instrutor confirma estar corretamente colocada, persistem ausência de movimento torácico, ausência de sons respiratórios e falta de CO₂ detetável.",
+        "instructorNote": "O instrutor comunica explicitamente a posição correta do tubo para permitir que a equipa explore obstrução. Não deve acrescentar mecónio ou um material obstrutivo concreto que o kit não tenha especificado.",
+        "source": "Caso do kit, pp. 53–63; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "37 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Padrão fetal de categoria III e hipertensão crónica"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 6,
+      "id": "L6-P1",
+      "title": "Bradicardia que exige compressões",
+      "kind": "Prática",
+      "case": "Cesariana urgente por bradicardia fetal com 3 minutos de duração; recém-nascido de termo, líquido claro.",
+      "steps": [
+        [
+          "Após os passos iniciais",
+          "Apneia e FC 40/min.",
+          "Inicia ventilação, avalia a resposta e corrige."
+        ],
+        [
+          "Após ventilação eficaz e via aérea alternativa",
+          "O tórax move-se, mas a FC mantém-se em 40/min. O CO₂ pode ser pouco evidente com fluxo muito baixo.",
+          "Confirma a ventilação e inicia compressões 3:1 com oxigénio a 100%."
+        ],
+        [
+          "Após 60 s de RCP coordenada de qualidade",
+          "FC 70/min em aumento, sem respiração espontânea.",
+          "Suspende as compressões e mantém a ventilação; titula o oxigénio."
+        ],
+        [
+          "Com apoio contínuo",
+          "FC >100/min; surgem posteriormente movimentos respiratórios.",
+          "Mantém o apoio conforme necessário e prepara cuidados posteriores."
+        ]
+      ],
+      "end": "Suspende as compressões atempadamente e mantém a ventilação; não necessita de adrenalina se a FC recuperar.",
+      "brief": "",
+      "origin": "Adaptação resumida do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "A equipa neonatal é convocada para uma cesariana de emergência por bradicardia fetal nos últimos 3 minutos. Prevê-se um bebé de termo e o líquido amniótico está claro. A equipa organiza a receção e os recursos de reanimação avançada.",
+        "initialState": "O recém-nascido nasce sem tónus e sem respiração. A FC inicial é 40/min se avaliada. Após conseguir ventilação com movimento torácico e colocar uma via aérea alternativa, a FC permanece em 40/min; o caso permite avaliar a decisão de iniciar compressões e a coordenação com a ventilação.",
+        "instructorNote": "Neste caso a FC aumenta após 60 segundos de compressões e ventilação eficazes, pelo que não se força a administração de adrenalina se deixar de estar indicada.",
+        "source": "Caso do kit, pp. 64–69; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "De termo"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Bradicardia fetal com 3 minutos de duração; cesariana de emergência"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 7,
+      "id": "L7-P1",
+      "title": "Prolapso do cordão e reanimação avançada",
+      "kind": "Prática",
+      "case": "De termo, prolapso do cordão, bradicardia fetal e cesariana urgente. Peso simulado: 3 kg.",
+      "steps": [
+        [
+          "Após os passos iniciais",
+          "Apneia; FC 50/min, depois 30–40/min sem resposta suficiente.",
+          "Inicia e otimiza a ventilação; coloca via aérea alternativa e confirma a eficácia."
+        ],
+        [
+          "Após ventilação eficaz com via aérea alternativa",
+          "FC 30/min.",
+          "Inicia compressões 3:1 e oxigénio a 100%; prepara acesso."
+        ],
+        [
+          "Após 60 s de RCP eficaz",
+          "FC 30/min.",
+          "Indica adrenalina; opção por TET enquanto obtém CVU, sem atrasar o acesso IV."
+        ],
+        [
+          "Com acesso funcional e dose verificada",
+          "Para 3 kg: 0,06 mg IV = 0,6 mL de solução a 0,1 mg/mL; lavagem com 3 mL de soro fisiológico.",
+          "Administra em circuito fechado e mantém RCP; reavalia aos 60 s."
+        ],
+        [
+          "Se a resposta continuar insuficiente",
+          "FC 50/min, palidez. Nesta adaptação, o instrutor acrescenta suspeita explícita de perda sanguínea fetal se pretender avaliar a administração de volume.",
+          "Revê a ventilação, a RCP e as causas; perante suspeita de hipovolemia, pratica a administração de 30 mL de soro fisiológico em 5–10 min."
+        ],
+        [
+          "Após a intervenção indicada",
+          "FC 80/min em aumento, depois >100/min; inicialmente em apneia.",
+          "Suspende as compressões quando a FC recuperar e mantém o apoio ventilatório."
+        ]
+      ],
+      "end": "Apoio e transferência com comunicação à família. A expansão não é automática por prolapso ou palidez isolada.",
+      "brief": "",
+      "origin": "Adaptação do kit com esclarecimento da indicação de volume",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "É solicitado à equipa neonatal que assista uma cesariana de emergência por prolapso do cordão umbilical e bradicardia fetal nos últimos 3 minutos. Prevê-se um bebé de termo com líquido amniótico claro. O peso estimado para os cálculos do exercício é 3 kg.",
+        "initialState": "O bebé nasce sem tónus e sem respiração. A FC é 50/min se avaliada e continua a diminuir para 30/min. Apesar de ventilação eficaz por via aérea alternativa e 60 segundos de compressões coordenadas, permanece abaixo de 60/min.",
+        "instructorNote": "O caso progride para acesso venoso umbilical e adrenalina. Se o instrutor utilizar a opção de volume, deve comunicar perda sanguínea conhecida ou suspeita e resposta insuficiente; este esclarecimento é uma adaptação pedagógica, não um diagnóstico confirmado apenas pelo prolapso.",
+        "source": "Caso do kit, pp. 70–77; narrativa resumida"
+      },
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "De termo; peso simulado 3 kg"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Prolapso do cordão e bradicardia fetal; cesariana de emergência"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ]
+    },
+    {
+      "lesson": 2,
+      "id": "L2-S1",
+      "title": "Preparação perante uma falha de equipamento",
+      "kind": "Simulação",
+      "case": "É anunciado um nascimento às 38 semanas. O equipamento tem uma ligação de gás solta simulada.",
+      "steps": [
+        [
+          "Ao colocar as perguntas",
+          "38 semanas, líquido claro, sem outros riscos; acordar o plano do cordão.",
+          "Realiza briefing e verificação funcional."
+        ],
+        [
+          "Se apenas enumerar o equipamento",
+          "A pressão não atinge o valor ajustado ao testar o dispositivo.",
+          "Deteta a falha, corrige-a e verifica o dispositivo de reserva."
+        ],
+        [
+          "Ao corrigir e testar",
+          "Dispositivo funcional; ajuda localizável.",
+          "Confirma a preparação e comunica a disponibilidade."
+        ]
+      ],
+      "end": "Equipamento pronto antes do parto. Não desligar equipamentos clínicos reais.",
+      "brief": "Prebriefing: ambiente seguro, funções, limitações do manequim e forma de receber os dados. Duração sugerida: 5–8 min (L7: 8–12 min) e debriefing de 8–10 min; tempos pedagógicos, não requisitos oficiais.",
+      "origin": "Cenário original de treino baseado nas competências do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "É anunciado um nascimento às 38 semanas. O equipamento tem uma ligação de gás solta simulada. A equipa prepara-se antes do nascimento, atribui funções e verifica o equipamento. O facilitador apresenta os achados de forma progressiva, de acordo com o guião.",
+        "initialState": "38 semanas, líquido claro, sem outros riscos; acordar o plano do cordão.",
+        "instructorNote": "Este é um cenário original de treino. Os dados simulados não são apresentados como uma variante oficial do ITK.",
+        "source": "Simulação original já incluída na biblioteca"
+      }
+    },
+    {
+      "lesson": 3,
+      "id": "L3-S1",
+      "title": "Escolher apoio respiratório sem atrasos",
+      "kind": "Simulação",
+      "case": "36 semanas, febre materna; a equipa recebe um recém-nascido hipotónico.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Respiração ausente, tónus diminuído.",
+          "Fornece calor e realiza os passos iniciais."
+        ],
+        [
+          "Após os passos iniciais",
+          "Mantém-se em apneia; FC 80/min se avaliada.",
+          "Inicia ventilação e pede ajuda sem repetir a estimulação."
+        ],
+        [
+          "Após 30 s de ventilação eficaz",
+          "FC 130/min e respiração regular.",
+          "Reduz o apoio quando adequado e planeia a vigilância."
+        ]
+      ],
+      "end": "Transição atempada dos passos iniciais para ventilação e vigilância.",
+      "brief": "Prebriefing: ambiente seguro, funções, limitações do manequim e forma de receber os dados. Duração sugerida: 5–8 min (L7: 8–12 min) e debriefing de 8–10 min; tempos pedagógicos, não requisitos oficiais.",
+      "origin": "Cenário original de treino baseado nas competências do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "36 semanas, febre materna; a equipa recebe um recém-nascido hipotónico. A equipa prepara-se antes do nascimento, atribui funções e verifica o equipamento. O facilitador apresenta os achados de forma progressiva, de acordo com o guião.",
+        "initialState": "Respiração ausente, tónus diminuído.",
+        "instructorNote": "Este é um cenário original de treino. Os dados simulados não são apresentados como uma variante oficial do ITK.",
+        "source": "Simulação original já incluída na biblioteca"
+      }
+    },
+    {
+      "lesson": 4,
+      "id": "L4-S1",
+      "title": "Fuga na máscara e resgate",
+      "kind": "Simulação",
+      "case": "39 semanas, líquido claro, sem riscos; apneia inesperada.",
+      "steps": [
+        [
+          "Após os passos iniciais",
+          "FC 70/min, apneia.",
+          "Pede ajuda e ventila."
+        ],
+        [
+          "Com fuga persistente",
+          "Sem movimento torácico nem aumento da FC.",
+          "Ajusta a vedação e a posição; considera a técnica a duas pessoas e outras correções adequadas."
+        ],
+        [
+          "Se continuar ineficaz",
+          "FC 60/min sem aumento.",
+          "Prepara e insere máscara laríngea."
+        ],
+        [
+          "Após 30 s de ventilação eficaz por via alternativa",
+          "FC 120/min; a respiração regressa.",
+          "Confirma a via aérea e reduz o apoio apenas de acordo com a recuperação."
+        ]
+      ],
+      "end": "Ventilação eficaz e comunicação de funções. Não melhorar a FC se a fuga persistir.",
+      "brief": "Prebriefing: ambiente seguro, funções, limitações do manequim e forma de receber os dados. Duração sugerida: 5–8 min (L7: 8–12 min) e debriefing de 8–10 min; tempos pedagógicos, não requisitos oficiais.",
+      "origin": "Cenário original de treino baseado nas competências do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "39 semanas, líquido claro, sem riscos; apneia inesperada. A equipa prepara-se antes do nascimento, atribui funções e verifica o equipamento. O facilitador apresenta os achados de forma progressiva, de acordo com o guião.",
+        "initialState": "FC 70/min, apneia.",
+        "instructorNote": "Este é um cenário original de treino. Os dados simulados não são apresentados como uma variante oficial do ITK.",
+        "source": "Simulação original já incluída na biblioteca"
+      }
+    },
+    {
+      "lesson": 5,
+      "id": "L5-S1",
+      "title": "Confirmação do tubo e plano alternativo",
+      "kind": "Simulação",
+      "case": "39 semanas, desacelerações; apneia persistente apesar das correções de ventilação.",
+      "steps": [
+        [
+          "Antes de intubar",
+          "FC 50/min; a equipa decide utilizar via aérea alternativa.",
+          "Prepara operador e assistente, limita a interrupção."
+        ],
+        [
+          "Primeira tentativa simulada incorreta",
+          "Sem movimento torácico, CO₂ ou aumento da FC.",
+          "Reconhece a falha, retira o TET e restabelece a ventilação."
+        ],
+        [
+          "Segunda tentativa eficaz",
+          "CO₂, tórax simétrico e FC 80/min em aumento.",
+          "Confirma a profundidade e fixa."
+        ],
+        [
+          "Após ventilação mantida",
+          "FC 130/min; persiste apneia.",
+          "Mantém a ventilação e comunica a transferência."
+        ]
+      ],
+      "end": "Via aérea confirmada e apoio contínuo apesar de FC normal.",
+      "brief": "Prebriefing: ambiente seguro, funções, limitações do manequim e forma de receber os dados. Duração sugerida: 5–8 min (L7: 8–12 min) e debriefing de 8–10 min; tempos pedagógicos, não requisitos oficiais.",
+      "origin": "Cenário original de treino baseado nas competências do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "39 semanas, desacelerações; apneia persistente apesar das correções de ventilação. A equipa prepara-se antes do nascimento, atribui funções e verifica o equipamento. O facilitador apresenta os achados de forma progressiva, de acordo com o guião.",
+        "initialState": "FC 50/min; a equipa decide utilizar via aérea alternativa.",
+        "instructorNote": "Este é um cenário original de treino. Os dados simulados não são apresentados como uma variante oficial do ITK.",
+        "source": "Simulação original já incluída na biblioteca"
+      }
+    },
+    {
+      "lesson": 6,
+      "id": "L6-S1",
+      "title": "Coordenar RCP e interrompê-la a tempo",
+      "kind": "Simulação",
+      "case": "De termo, cesariana urgente por bradicardia fetal.",
+      "steps": [
+        [
+          "Com ventilação facial ineficaz",
+          "FC 40/min; tórax imóvel.",
+          "Corrige antes de considerar compressões."
+        ],
+        [
+          "Após 30 s de ventilação eficaz com via aérea alternativa",
+          "FC 40/min, tórax com movimento.",
+          "Inicia compressões coordenadas e oxigénio a 100%."
+        ],
+        [
+          "Após 60 s de RCP eficaz",
+          "FC 80/min; apneia.",
+          "Suspende as compressões, mantém a ventilação e ajusta o oxigénio."
+        ],
+        [
+          "Com apoio adequado",
+          "FC 120/min, respiração débil.",
+          "Planeia a transferência e a vigilância."
+        ]
+      ],
+      "end": "RCP indicada e suspensa no momento correto.",
+      "brief": "Prebriefing: ambiente seguro, funções, limitações do manequim e forma de receber os dados. Duração sugerida: 5–8 min (L7: 8–12 min) e debriefing de 8–10 min; tempos pedagógicos, não requisitos oficiais.",
+      "origin": "Cenário original de treino baseado nas competências do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "De termo, cesariana urgente por bradicardia fetal. A equipa prepara-se antes do nascimento, atribui funções e verifica o equipamento. O facilitador apresenta os achados de forma progressiva, de acordo com o guião.",
+        "initialState": "FC 40/min; tórax imóvel.",
+        "instructorNote": "Este é um cenário original de treino. Os dados simulados não são apresentados como uma variante oficial do ITK.",
+        "source": "Simulação original já incluída na biblioteca"
+      }
+    },
+    {
+      "lesson": 7,
+      "id": "L7-S1",
+      "title": "37 semanas: hipóxia e possível perda sanguínea fetal",
+      "kind": "Simulação",
+      "case": "Cesariana urgente por prolapso do cordão. Peso simulado: 3 kg. A obstetrícia comunica hemorragia e suspeita de lesão vascular fetal.",
+      "steps": [
+        [
+          "Durante o briefing",
+          "37 semanas, bradicardia fetal, líquido claro; a hemorragia materna, por si só, não define perda sanguínea neonatal.",
+          "Pede esclarecimento sobre a origem da hemorragia e prepara a equipa completa."
+        ],
+        [
+          "Após nascer e realizar os passos iniciais",
+          "Apneia, palidez intensa, FC 40/min.",
+          "Inicia ventilação, corrige e assegura via aérea alternativa."
+        ],
+        [
+          "Após ventilação eficaz",
+          "FC 30/min.",
+          "Inicia compressões 3:1, oxigénio a 100% e acesso vascular."
+        ],
+        [
+          "Após 60 s de RCP de qualidade",
+          "FC 30/min.",
+          "Verifica e administra adrenalina IV: 0,06 mg = 0,6 mL de solução a 0,1 mg/mL, seguida de 3 mL de soro fisiológico."
+        ],
+        [
+          "Após 60 s de apoio subsequente",
+          "FC 50/min; persiste má perfusão. A obstetrícia confirma a suspeita de perda sanguínea fetal.",
+          "Considera expansão; na prática utiliza 10 mL/kg = 30 mL de soro fisiológico em 5–10 min. Discute sangue de emergência de acordo com o contexto e o protocolo."
+        ],
+        [
+          "Após apoio e expansão indicados",
+          "FC 90/min, depois 130/min; esforço respiratório insuficiente.",
+          "Suspende as compressões, mantém a ventilação e transfere com vigilância apertada."
+        ]
+      ],
+      "end": "Reconhece hipovolemia provável sem a atribuir exclusivamente à hemorragia materna; completa o apoio e a comunicação.",
+      "brief": "Prebriefing: ambiente seguro, funções, limitações do manequim e forma de receber os dados. Duração sugerida: 5–8 min (L7: 8–12 min) e debriefing de 8–10 min; tempos pedagógicos, não requisitos oficiais.",
+      "origin": "Cenário original de treino baseado nas competências do kit",
+      "debrief": null,
+      "clinicalScenario": {
+        "narrative": "Cesariana urgente por prolapso do cordão. Peso simulado: 3 kg. A obstetrícia comunica hemorragia e suspeita de lesão vascular fetal. A equipa prepara-se antes do nascimento, atribui funções e verifica o equipamento. O facilitador apresenta os achados de forma progressiva, de acordo com o guião.",
+        "initialState": "37 semanas, bradicardia fetal, líquido claro; a hemorragia materna, por si só, não define perda sanguínea neonatal.",
+        "instructorNote": "Este é um cenário original de treino. Os dados simulados não são apresentados como uma variante oficial do ITK.",
+        "source": "Simulação original já incluída na biblioteca"
+      }
+    },
+    {
+      "lesson": 2,
+      "id": "L2-ITK1",
+      "title": "ITK · Preparar um nascimento de baixo risco",
+      "kind": "Simulação ITK",
+      "case": "Trabalho de parto ativo; organize a receção do recém-nascido.",
+      "steps": [
+        [
+          "Ao perguntar à obstetrícia",
+          "38 semanas, líquido claro, sem fatores adicionais. Plano de diferir a clampagem pelo menos 60 s se não necessitar de reanimação imediata.",
+          "Coloca as quatro perguntas e determina os profissionais necessários."
+        ],
+        [
+          "Ao preparar a estação",
+          "O equipamento está disponível; o instrutor observa se é testado, e não apenas enumerado.",
+          "Verifica aquecimento, aspiração, ventilação e monitorização; combina como pedir ajuda."
+        ]
+      ],
+      "end": "Equipamento pronto e plano verbalizado antes do nascimento.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Que risco alterou a composição da equipa?",
+        "O que verificou realmente e o que tomou como garantido?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 28–32",
+      "objectives": [
+        "Antecipar os riscos e ter uma equipa preparada antes do nascimento.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "38 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Sem riscos adicionais"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "O Construtor de Cenários começa na lição 3. Estes dois exercícios da lição 2 adaptam os casos de preparação das pp. 28–32; não são cenários clínicos adicionais exigidos pelo Construtor.",
+      "clinicalScenario": {
+        "narrative": "A obstetrícia informa que uma grávida de 38 semanas está em trabalho de parto ativo. O líquido amniótico está claro e não são conhecidos outros fatores de risco. O profissional responsável pelo recém-nascido deve preparar o local de cuidados e verificar o equipamento antes do nascimento.",
+        "initialState": "A fase pós-natal ainda não começa: este caso avalia antecipação, organização e verificação funcional do equipamento.",
+        "instructorNote": "A idade materna, o peso fetal e a via do parto não estão especificados nesta variante; não devem ser apresentados como dados do kit.",
+        "source": "Caso do kit, pp. 28–32; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 2,
+      "id": "L2-ITK2",
+      "title": "ITK · Preparar um nascimento às 29 semanas",
+      "kind": "Simulação ITK",
+      "case": "Prevê-se um nascimento prematuro.",
+      "steps": [
+        [
+          "Ao perguntar à obstetrícia",
+          "29 semanas, líquido claro, pré-eclâmpsia. Acordar o plano do cordão de acordo com o estado e a necessidade de reanimação.",
+          "Convoca profissionais com competências avançadas e distribui funções."
+        ],
+        [
+          "Antes do nascimento",
+          "É pedido que explique como evitará a perda de calor.",
+          "Prepara envoltório de plástico, gorro, calor radiante e recursos térmicos; verifica ajustes para o prematuro e transferência."
+        ]
+      ],
+      "end": "Briefing completo e equipamento adaptado à prematuridade. Esta ficha avalia a preparação; não desenvolve toda a reanimação do prematuro.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Que risco alterou a composição da equipa?",
+        "O que verificou realmente e o que tomou como garantido?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 28–32",
+      "objectives": [
+        "Antecipar os riscos e ter uma equipa preparada antes do nascimento.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "29 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Pré-eclâmpsia"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "O Construtor de Cenários começa na lição 3. Estes dois exercícios da lição 2 adaptam os casos de preparação das pp. 28–32; não são cenários clínicos adicionais exigidos pelo Construtor.",
+      "clinicalScenario": {
+        "narrative": "Prevê-se o nascimento de um bebé de 29 semanas de uma grávida com pré-eclâmpsia e líquido amniótico claro. A equipa neonatal é convocada para preparar a receção do prematuro, incluindo proteção térmica, dispositivos de ventilação e um plano de cuidados posteriores.",
+        "initialState": "O bebé ainda não nasceu. O instrutor observa a seleção de recursos, o briefing e a preparação específica para a prematuridade.",
+        "instructorNote": "Não é atribuída frequência cardíaca nem peso exato: estes dados não são fornecidos neste cenário de preparação.",
+        "source": "Caso do kit, pp. 28–32; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 3,
+      "id": "L3-ITK1",
+      "title": "ITK · Recém-nascido de termo vigoroso junto da mãe",
+      "kind": "Simulação ITK",
+      "case": "Parto vaginal às 39 semanas, líquido claro, sem outros riscos.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Bom tónus e choro espontâneo.",
+          "Avalia se é de termo, o tónus e a respiração; mantém junto da mãe."
+        ],
+        [
+          "Durante os cuidados iniciais",
+          "Continua a respirar e mantém atividade.",
+          "Seca, posiciona, cobre e vigia durante o contacto pele a pele e o plano de clampagem."
+        ]
+      ],
+      "end": "Cuidados de rotina com vigilância contínua.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Que achado determinou a transferência para o berço?",
+        "Porque é que a cor, por si só, não determina a administração de oxigénio?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 33–40",
+      "objectives": [
+        "Escolher o local de prestação de cuidados e identificar atempadamente a necessidade de ventilação.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "39 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Sem riscos adicionais"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "Variante de prática do kit reutilizada para simulação integrada. O instrutor escolhe as intervenções necessárias aos objetivos, em vez de acrescentar automaticamente todas as manobras avançadas.",
+      "clinicalScenario": {
+        "narrative": "Uma grávida de 39 semanas, sem riscos adicionais e com líquido amniótico claro, está em trabalho de parto ativo para um nascimento vaginal. A equipa deve preparar-se para receber o recém-nascido e decidir onde realizar os cuidados iniciais.",
+        "initialState": "Ao nascer, o bebé tem bom tónus muscular e chora espontaneamente. Permanece junto da mãe durante os cuidados iniciais e a vigilância.",
+        "instructorNote": "O exercício consiste em reconhecer uma transição normal e evitar intervenções desnecessárias.",
+        "source": "Caso do kit, pp. 33–40; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 3,
+      "id": "L3-ITK2",
+      "title": "ITK · Mecónio e cianose persistente",
+      "kind": "Simulação ITK",
+      "case": "41 semanas, líquido com mecónio; equipa de duas pessoas.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Bom tónus e respiração; pode inicialmente permanecer em contacto pele a pele.",
+          "Presta cuidados iniciais e vigia, sem aspiração por rotina."
+        ],
+        [
+          "Aos 4 minutos, após avaliar e colocar o sensor",
+          "Cianose marcada; respira sem dificuldade; FC 140/min; SpO₂ fiável de 68%.",
+          "Administra oxigénio de fluxo livre, inicialmente a 30% no exercício do kit, e titula para o alvo por minuto."
+        ],
+        [
+          "Após uma intervenção adequada",
+          "A saturação aumenta em direção ao alvo; o instrutor informa a idade em minutos e a tendência.",
+          "Reavalia, reduz gradualmente o oxigénio quando adequado e comunica o plano."
+        ]
+      ],
+      "end": "Respiração e saturação estáveis, vigilância e comunicação com a família.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Que achado determinou a transferência para o berço?",
+        "Porque é que a cor, por si só, não determina a administração de oxigénio?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 33–40",
+      "objectives": [
+        "Escolher o local de prestação de cuidados e identificar atempadamente a necessidade de ventilação.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "41 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido com mecónio"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Mecónio como único risco adicional"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "Variante de prática do kit reutilizada para simulação integrada. O instrutor escolhe as intervenções necessárias aos objetivos, em vez de acrescentar automaticamente todas as manobras avançadas.",
+      "clinicalScenario": {
+        "narrative": "Uma grávida de 41 semanas apresenta líquido amniótico com mecónio e não tem outros riscos conhecidos. Dois profissionais preparam-se para assistir o recém-nascido no parto vaginal.",
+        "initialState": "O bebé nasce vigoroso, com bom tónus e respiração espontânea. Aos 4 minutos surge cianose marcada; respira sem dificuldade, a FC é 140/min e a SpO₂ fiável, obtida após colocar o sensor, é 68%.",
+        "instructorNote": "O instrutor apresenta primeiro o nascimento vigoroso e revela a cianose aos 4 minutos; não anuncia de início que a equipa terá de administrar oxigénio.",
+        "source": "Caso do kit, pp. 33–40; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 3,
+      "id": "L3-ITK3",
+      "title": "ITK · Responde aos passos iniciais",
+      "kind": "Simulação ITK",
+      "case": "De termo, líquido claro, desacelerações fetais repetidas.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Hipotonia e ausência de choro ou respiração.",
+          "Transfere para o berço de calor radiante e realiza os passos iniciais sem demora."
+        ],
+        [
+          "Após os passos iniciais",
+          "Chora; FC 120/min.",
+          "Reavalia a estabilidade e considera o regresso ao contacto pele a pele com vigilância."
+        ]
+      ],
+      "end": "Respiração eficaz, FC normal e plano de vigilância.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Que achado determinou a transferência para o berço?",
+        "Porque é que a cor, por si só, não determina a administração de oxigénio?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 33–40",
+      "objectives": [
+        "Escolher o local de prestação de cuidados e identificar atempadamente a necessidade de ventilação.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "De termo"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Desacelerações repetidas nos últimos 15 minutos"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "Variante de prática do kit reutilizada para simulação integrada. O instrutor escolhe as intervenções necessárias aos objetivos, em vez de acrescentar automaticamente todas as manobras avançadas.",
+      "clinicalScenario": {
+        "narrative": "É solicitada assistência neonatal para um parto vaginal de termo com líquido amniótico claro. Nos últimos 15 minutos observaram-se desacelerações fetais repetidas. A equipa prepara-se e recebe o bebé.",
+        "initialState": "Ao nascer, o recém-nascido não tem bom tónus e não respira nem chora. Após os passos iniciais começa a chorar e a FC é 120/min.",
+        "instructorNote": "O instrutor comunica a resposta apenas depois de observar os passos iniciais; a evolução posterior permite avaliar o regresso ao contacto pele a pele.",
+        "source": "Caso do kit, pp. 33–40; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 3,
+      "id": "L3-ITK4",
+      "title": "ITK · Prematuro tardio que permanece em apneia",
+      "kind": "Simulação ITK",
+      "case": "36 semanas, líquido claro, febre materna.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Hipotonia e apneia.",
+          "Realiza os passos iniciais no berço de calor radiante."
+        ],
+        [
+          "Após os passos iniciais",
+          "Persiste apneia; FC 70/min se solicitada.",
+          "Reconhece a necessidade de ventilação e pede ajuda; não prolonga a estimulação."
+        ],
+        [
+          "Continuação integrada com a lição 4",
+          "Persiste apneia e FC 70/min. O facilitador observa a ventilação; não atribui recuperação se esta for ineficaz.",
+          "Inicia ventilação imediatamente, solicita ajuda, verifica a eficácia e corrige quando necessário."
+        ],
+        [
+          "Após 30 segundos de ventilação eficaz",
+          "Para completar esta adaptação, o facilitador programa aumento da FC para >100/min e regresso progressivo de respiração eficaz; não são dados numéricos adicionais da opção isolada da lição 3.",
+          "Mantém o apoio até haver respiração suficiente, reduz-o de acordo com a resposta e organiza vigilância e cuidados posteriores."
+        ]
+      ],
+      "end": "Simulação integrada: ventilação eficaz, recuperação e plano de vigilância. A prática isolada da lição 3 continua a terminar no reconhecimento da necessidade de ventilação.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Que achado determinou a transferência para o berço?",
+        "Porque é que a cor, por si só, não determina a administração de oxigénio?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27, 33–40 e 41–52; continuação docente adaptada",
+      "objectives": [
+        "Escolher o local de prestação de cuidados e identificar atempadamente a necessidade de ventilação.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "36 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Febre materna"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "Na prática isolada da lição 3, o kit termina ao reconhecer a necessidade de ventilação. Se realizar uma simulação integrada, continue imediatamente para a lição 4 e acrescente os objetivos e o guião correspondentes.",
+      "clinicalScenario": {
+        "narrative": "Uma grávida de 36 semanas com febre materna e líquido amniótico claro está em trabalho de parto. A equipa prepara-se para um parto vaginal e para receber um prematuro tardio.",
+        "initialState": "O bebé nasce hipotónico e sem respiração ou choro. Permanece em apneia após os passos iniciais; se a FC for avaliada, é 70/min.",
+        "instructorNote": "A prática isolada termina ao identificar a necessidade de ventilação; numa simulação integrada deve continuar imediatamente com ventilação e a evolução correspondente.",
+        "source": "Caso do kit, pp. 33–40; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 4,
+      "id": "L4-ITK1",
+      "title": "ITK · Ventilação com risco conhecido",
+      "kind": "Simulação ITK",
+      "case": "38 semanas, hipertensão gestacional e desacelerações tardias; líquido claro.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Sem respiração eficaz e com tónus diminuído.",
+          "Realiza os passos iniciais, pede ajuda e inicia ventilação antes dos 60 s."
+        ],
+        [
+          "Se a FC não aumentar",
+          "O instrutor indica ausência de movimento torácico e mantém a bradicardia até a ventilação ser corrigida.",
+          "Identifica fuga ou obstrução e aplica as correções adequadas."
+        ],
+        [
+          "Após 30 s de ventilação eficaz",
+          "FC 120/min, esforço ocasional; depois FC 140/min e respiração crescente.",
+          "Mantém o apoio até haver respiração suficiente e reduz-o gradualmente."
+        ],
+        [
+          "Com respiração eficaz mas hipoxemia",
+          "O instrutor fornece SpO₂ fiável e idade em minutos para avaliar a necessidade de oxigénio.",
+          "Titula o oxigénio de fluxo livre e planeia a monitorização."
+        ],
+        [
+          "Opção do kit",
+          "Surge depois gemido e dificuldade respiratória com FC 140/min.",
+          "Considera CPAP de 5 cm H₂O e sonda OG de acordo com a função, o protocolo e a avaliação; não substitui a ventilação se houver apneia."
+        ]
+      ],
+      "end": "Estabilidade ou apoio respiratório adequado com plano de cuidados posteriores.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Que dado confirmou a eficácia da ventilação?",
+        "Quando decidiu mudar de interface?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 41–52",
+      "objectives": [
+        "Conseguir ventilação eficaz e utilizar uma via aérea alternativa quando necessário.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "38 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Hipertensão gestacional, indução e desacelerações tardias"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "Variante de prática do kit reutilizada para simulação integrada. O instrutor escolhe as intervenções necessárias aos objetivos, em vez de acrescentar automaticamente todas as manobras avançadas.",
+      "clinicalScenario": {
+        "narrative": "Uma grávida com hipertensão gestacional teve o trabalho de parto induzido às 38 semanas. Durante o trabalho de parto observam-se desacelerações tardias; o líquido amniótico está claro. A equipa é convocada para receber o bebé num parto vaginal que progride rapidamente.",
+        "initialState": "O recém-nascido não respira nem chora e apresenta tónus diminuído. Após os passos iniciais mantém-se em apneia; se a FC for avaliada, é 60/min. Com ventilação facial inicialmente ineficaz, o instrutor pode revelar FC 40/min e ausência de movimento torácico conforme o guião.",
+        "instructorNote": "A recuperação depende de conseguir ventilação eficaz. A dificuldade respiratória que leva a CPAP e sonda orogástrica é uma opção posterior do kit.",
+        "source": "Caso do kit, pp. 41–52; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 4,
+      "id": "L4-ITK2",
+      "title": "ITK · Apneia inesperada: pedir ajuda",
+      "kind": "Simulação ITK",
+      "case": "39 semanas, líquido claro, sem riscos. Uma pessoa responsável pelo recém-nascido.",
+      "steps": [
+        [
+          "Ao nascer",
+          "Hipotonia e apneia; FC 70/min se avaliada.",
+          "Realiza os passos iniciais, pede ajuda e inicia ventilação sem esperar pela equipa."
+        ],
+        [
+          "Ao avaliar a resposta",
+          "FC 70/min sem aumento e sem movimento torácico.",
+          "Corrige a ventilação; à chegada do assistente atribui-lhe a avaliação da FC, do tórax e do oxímetro."
+        ],
+        [
+          "Após 30 s de ventilação com movimento torácico",
+          "FC 120/min, esforço crescente; depois FC 140/min e respiração regular.",
+          "Reduz progressivamente a ventilação, se adequado, e monitoriza."
+        ]
+      ],
+      "end": "Ventilação eficaz, pedido de ajuda atempado e passagem de informação à equipa que chega.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Que dado confirmou a eficácia da ventilação?",
+        "Quando decidiu mudar de interface?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 41–52",
+      "objectives": [
+        "Conseguir ventilação eficaz e utilizar uma via aérea alternativa quando necessário.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "39 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Sem riscos conhecidos; uma pessoa inicialmente responsável pelo recém-nascido"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "Variante de prática do kit reutilizada para simulação integrada. O instrutor escolhe as intervenções necessárias aos objetivos, em vez de acrescentar automaticamente todas as manobras avançadas.",
+      "clinicalScenario": {
+        "narrative": "É assistido um parto vaginal às 39 semanas, com líquido amniótico claro e sem fatores de risco conhecidos. Inicialmente há apenas um profissional qualificado responsável pelo recém-nascido, que conhece o mecanismo de pedido de ajuda da unidade.",
+        "initialState": "O bebé nasce hipotónico, sem respiração nem choro. Persiste apneia após os passos iniciais e, se avaliada, a FC é 70/min. A ventilação facial inicialmente não move o tórax nem aumenta a FC.",
+        "instructorNote": "O cenário exige responder a uma necessidade inesperada sem esperar pela chegada de ajuda; o instrutor representa os profissionais adicionais quando são convocados.",
+        "source": "Caso do kit, pp. 41–52; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 4,
+      "id": "L4-ITK3",
+      "title": "ITK · Resgate com máscara laríngea",
+      "kind": "Simulação ITK",
+      "case": "40 semanas, desacelerações fetais; líquido claro.",
+      "steps": [
+        [
+          "Após os passos iniciais",
+          "Apneia, FC 70/min; a ventilação com máscara facial não produz resposta adequada.",
+          "Corrige a ventilação e identifica a necessidade de via aérea alternativa."
+        ],
+        [
+          "Com correções sem resposta suficiente",
+          "FC cerca de 60/min sem aumento; pode não haver sinal do oxímetro.",
+          "Prepara e insere a máscara laríngea; mantém o apoio enquanto se organiza."
+        ],
+        [
+          "Se corretamente colocada",
+          "Movimento simétrico, sons bilaterais e CO₂; após 30 s de ventilação eficaz, FC 120/min.",
+          "Confirma, fixa e ventila; avalia a recuperação respiratória."
+        ],
+        [
+          "Durante a recuperação",
+          "FC 140/min, choro e respiração regular.",
+          "Reduz o apoio e retira o dispositivo quando adequado; vigia."
+        ]
+      ],
+      "end": "Ventilação eficaz através de máscara laríngea e plano posterior.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Que dado confirmou a eficácia da ventilação?",
+        "Quando decidiu mudar de interface?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 41–52",
+      "objectives": [
+        "Conseguir ventilação eficaz e utilizar uma via aérea alternativa quando necessário.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "40 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Desacelerações nos últimos 20 minutos"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "Variante de prática do kit reutilizada para simulação integrada. O instrutor escolhe as intervenções necessárias aos objetivos, em vez de acrescentar automaticamente todas as manobras avançadas.",
+      "clinicalScenario": {
+        "narrative": "Uma grávida de 40 semanas apresenta desacelerações fetais nos últimos 20 minutos e líquido amniótico claro. A equipa prepara-se para o parto vaginal e para eventual necessidade de apoio respiratório.",
+        "initialState": "O bebé nasce com tónus diminuído, sem respiração nem choro. A FC é 70/min se avaliada. A ventilação com máscara facial e as correções não produzem resposta suficiente; a FC mantém-se perto de 60/min antes de recorrer a uma via aérea alternativa.",
+        "instructorNote": "O instrutor determina a resposta à ventilação e apresenta a recuperação quando a máscara laríngea proporciona ventilação eficaz; não deve antecipar a escolha do dispositivo.",
+        "source": "Caso do kit, pp. 41–52; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 5,
+      "id": "L5-ITK1",
+      "title": "ITK · Intubação por ventilação ineficaz",
+      "kind": "Simulação ITK",
+      "case": "39 semanas, padrão fetal de categoria III e febre materna; líquido claro.",
+      "steps": [
+        [
+          "Após os passos iniciais",
+          "Apneia, FC 40/min, sem resposta à ventilação facial ineficaz.",
+          "Ventila, corrige e prepara a intubação com assistente."
+        ],
+        [
+          "Durante a tentativa",
+          "O instrutor observa a técnica; o assistente informa a FC e o tempo.",
+          "Intuba ou presta assistência; restabelece a ventilação se a tentativa falhar."
+        ],
+        [
+          "Após colocação correta",
+          "CO₂ detetável, movimento simétrico e FC 70/min em aumento.",
+          "Confirma a profundidade e fixa; mantém a ventilação."
+        ],
+        [
+          "Após mais 30 s de ventilação eficaz",
+          "FC >100/min, mas mantém-se em apneia.",
+          "Mantém a ventilação e organiza os cuidados pós-reanimação."
+        ]
+      ],
+      "end": "Via aérea confirmada e apoio mantido até à transferência.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Como verificaram a posição?",
+        "O que fez o assistente para proteger a ventilação?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 53–63",
+      "objectives": [
+        "Intubar ou prestar assistência, verificar a posição e reconhecer uma obstrução.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "39 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Padrão fetal de categoria III e febre materna"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "Variante de prática do kit reutilizada para simulação integrada. O instrutor escolhe as intervenções necessárias aos objetivos, em vez de acrescentar automaticamente todas as manobras avançadas.",
+      "clinicalScenario": {
+        "narrative": "Uma primigesta de 28 anos e 39 semanas está em trabalho de parto com padrão de frequência cardíaca fetal de categoria III. Apresenta febre e o líquido amniótico está claro. É solicitado à equipa neonatal que prepare a receção de um nascimento complicado.",
+        "initialState": "O recém-nascido nasce sem tónus e sem respiração. Se avaliada, a FC inicial é 40/min. Não há movimento torácico nem recuperação da FC com ventilação facial e correções; o cenário progride para uma via aérea alternativa.",
+        "instructorNote": "A via do nascimento não está especificada nesta variante; não deve ser atribuída uma cesariana como dado oficial. O bebé pode continuar em apneia mesmo que a FC recupere.",
+        "source": "Caso do kit, pp. 53–63; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 5,
+      "id": "L5-ITK2",
+      "title": "ITK · Obstrução da via aérea",
+      "kind": "Simulação ITK",
+      "case": "37 semanas, padrão fetal de categoria III e hipertensão crónica; líquido claro.",
+      "steps": [
+        [
+          "Após ventilação e correções",
+          "Apneia e FC 40/min; sem melhoria.",
+          "Prepara e tenta a intubação."
+        ],
+        [
+          "Após confirmar a posição do tubo",
+          "O instrutor confirma a posição correta, mas não há movimento torácico, sons ou CO₂.",
+          "Revê o sistema e a posição; suspeita de obstrução e utiliza o aspirador traqueal se indicado."
+        ],
+        [
+          "Após desobstruir a via aérea e restabelecer ventilação",
+          "Há CO₂ e FC 60–70/min em aumento.",
+          "Reintuba com tubo limpo ou restabelece a ventilação por uma alternativa eficaz; confirma e fixa."
+        ],
+        [
+          "Com ventilação contínua",
+          "FC >100/min; persiste apneia.",
+          "Mantém o apoio, ajusta o oxigénio e prepara a transferência."
+        ]
+      ],
+      "end": "Obstrução resolvida e ventilação eficaz, sem aspiração por rotina.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Como verificaram a posição?",
+        "O que fez o assistente para proteger a ventilação?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 53–63",
+      "objectives": [
+        "Intubar ou prestar assistência, verificar a posição e reconhecer uma obstrução.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "37 semanas"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Padrão fetal de categoria III e hipertensão crónica"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "Variante de prática do kit reutilizada para simulação integrada. O instrutor escolhe as intervenções necessárias aos objetivos, em vez de acrescentar automaticamente todas as manobras avançadas.",
+      "clinicalScenario": {
+        "narrative": "Uma primigesta de 39 anos e 37 semanas com hipertensão crónica apresenta padrão fetal de categoria III durante o trabalho de parto. O líquido amniótico está claro. A equipa é convocada para antecipar uma possível reanimação neonatal.",
+        "initialState": "O bebé está em apneia e a FC é 40/min, sem aumento com ventilação facial ineficaz. Após uma intubação que o instrutor confirma estar corretamente colocada, persistem ausência de movimento torácico, ausência de sons respiratórios e falta de CO₂ detetável.",
+        "instructorNote": "O instrutor comunica explicitamente a posição correta do tubo para permitir que a equipa explore obstrução. Não deve acrescentar mecónio ou um material obstrutivo concreto que o kit não tenha especificado.",
+        "source": "Caso do kit, pp. 53–63; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 6,
+      "id": "L6-ITK1",
+      "title": "ITK · Bradicardia que exige compressões",
+      "kind": "Simulação ITK",
+      "case": "Cesariana urgente por bradicardia fetal com 3 minutos de duração; recém-nascido de termo, líquido claro.",
+      "steps": [
+        [
+          "Após os passos iniciais",
+          "Apneia e FC 40/min.",
+          "Inicia ventilação, avalia a resposta e corrige."
+        ],
+        [
+          "Após ventilação eficaz e via aérea alternativa",
+          "O tórax move-se, mas a FC mantém-se em 40/min. O CO₂ pode ser pouco evidente com fluxo muito baixo.",
+          "Confirma a ventilação e inicia compressões 3:1 com oxigénio a 100%."
+        ],
+        [
+          "Após 60 s de RCP coordenada de qualidade",
+          "FC 70/min em aumento, sem respiração espontânea.",
+          "Suspende as compressões e mantém a ventilação; titula o oxigénio."
+        ],
+        [
+          "Com apoio contínuo",
+          "FC >100/min; surgem posteriormente movimentos respiratórios.",
+          "Mantém o apoio conforme necessário e prepara cuidados posteriores."
+        ]
+      ],
+      "end": "Suspende as compressões atempadamente e mantém a ventilação; não necessita de adrenalina se a FC recuperar.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "O que verificaram antes de iniciar compressões?",
+        "A contagem facilitou a coordenação ou gerou confusão?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 64–69",
+      "objectives": [
+        "Coordenar as compressões com a ventilação depois de assegurar ventilação eficaz.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "De termo"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Bradicardia fetal com 3 minutos de duração; cesariana de emergência"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "Variante de prática do kit reutilizada para simulação integrada. O instrutor escolhe as intervenções necessárias aos objetivos, em vez de acrescentar automaticamente todas as manobras avançadas.",
+      "clinicalScenario": {
+        "narrative": "A equipa neonatal é convocada para uma cesariana de emergência por bradicardia fetal nos últimos 3 minutos. Prevê-se um bebé de termo e o líquido amniótico está claro. A equipa organiza a receção e os recursos de reanimação avançada.",
+        "initialState": "O recém-nascido nasce sem tónus e sem respiração. A FC inicial é 40/min se avaliada. Após conseguir ventilação com movimento torácico e colocar uma via aérea alternativa, a FC permanece em 40/min; o caso permite avaliar a decisão de iniciar compressões e a coordenação com a ventilação.",
+        "instructorNote": "Neste caso a FC aumenta após 60 segundos de compressões e ventilação eficazes, pelo que não se força a administração de adrenalina se deixar de estar indicada.",
+        "source": "Caso do kit, pp. 64–69; narrativa resumida"
+      }
+    },
+    {
+      "lesson": 7,
+      "id": "L7-ITK1",
+      "title": "ITK · Prolapso do cordão e reanimação avançada",
+      "kind": "Simulação ITK",
+      "case": "De termo, prolapso do cordão, bradicardia fetal e cesariana urgente. Peso simulado: 3 kg.",
+      "steps": [
+        [
+          "Após os passos iniciais",
+          "Apneia; FC 50/min, depois 30–40/min sem resposta suficiente.",
+          "Inicia e otimiza a ventilação; coloca via aérea alternativa e confirma a eficácia."
+        ],
+        [
+          "Após ventilação eficaz com via aérea alternativa",
+          "FC 30/min.",
+          "Inicia compressões 3:1 e oxigénio a 100%; prepara acesso."
+        ],
+        [
+          "Após 60 s de RCP eficaz",
+          "FC 30/min.",
+          "Indica adrenalina; opção por TET enquanto obtém CVU, sem atrasar o acesso IV."
+        ],
+        [
+          "Com acesso funcional e dose verificada",
+          "Para 3 kg: 0,06 mg IV = 0,6 mL de solução a 0,1 mg/mL; lavagem com 3 mL de soro fisiológico.",
+          "Administra em circuito fechado e mantém RCP; reavalia aos 60 s."
+        ],
+        [
+          "Se a resposta continuar insuficiente",
+          "FC 50/min, palidez. Nesta adaptação, o instrutor acrescenta suspeita explícita de perda sanguínea fetal se pretender avaliar a administração de volume.",
+          "Revê a ventilação, a RCP e as causas; perante suspeita de hipovolemia, pratica a administração de 30 mL de soro fisiológico em 5–10 min."
+        ],
+        [
+          "Após a intervenção indicada",
+          "FC 80/min em aumento, depois >100/min; inicialmente em apneia.",
+          "Suspende as compressões quando a FC recuperar e mantém o apoio ventilatório."
+        ]
+      ],
+      "end": "Apoio e transferência com comunicação à família. A expansão não é automática por prolapso ou palidez isolada.",
+      "brief": "Prebriefing: orientar para o equipamento e as limitações do manequim, explicar a apresentação dos sinais vitais e permitir preparação. Realizar depois o cenário sem orientação ou sugestões; analisar no debriefing. A seleção depende das competências e necessidades dos formandos.",
+      "origin": "Adaptação para simulação de uma variante de prática do ITK; não é um guião oficial único",
+      "debrief": [
+        "Que medida evitou um erro de concentração ou de via?",
+        "Que evidência sustentou a administração de volume?",
+        "Que competência comportamental ajudou a equipa? Que ação concreta irão praticar novamente?"
+      ],
+      "source": "ITK: pp. 9–10, 11–27 e 70–77",
+      "objectives": [
+        "Administrar adrenalina com segurança e reconhecer quando considerar expansão de volume.",
+        "Demonstrar comunicação em circuito fechado, liderança, distribuição de tarefas e pedido de ajuda."
+      ],
+      "birthQuestions": [
+        [
+          "Qual é a idade gestacional?",
+          "De termo; peso simulado 3 kg"
+        ],
+        [
+          "O líquido amniótico está claro?",
+          "Líquido claro"
+        ],
+        [
+          "Existem fatores de risco adicionais?",
+          "Prolapso do cordão e bradicardia fetal; cesariana de emergência"
+        ],
+        [
+          "Qual é o plano de gestão do cordão umbilical?",
+          "Acordar com a obstetrícia: diferir pelo menos 60 segundos se o estado permitir; definir antecipadamente o plano se necessitar de reanimação imediata."
+        ]
+      ],
+      "teacher": [
+        "Orientar antes de começar; durante o cenário não interromper, orientar nem sugerir a manobra seguinte. Uma pausa pedagógica excecional deve ser anunciada.",
+        "Fornecer achados observáveis e respostas às avaliações solicitadas. Ajustar os dados em tempo real de acordo com a eficácia das intervenções.",
+        "Controlar a idade em minutos e a qualidade do sinal; relacionar qualquer SpO₂ com a tabela-alvo disponível na estação.",
+        "Registar ações técnicas, decisões e comportamentos para o debriefing; terminar de forma neutra quando os objetivos forem atingidos.",
+        "Testar o cenário com colegas antes do curso. Os dados do guião são simplificados; os valores acrescentados pelo facilitador não são dados oficiais do kit."
+      ],
+      "scopeNote": "A opção de volume exige perda sanguínea conhecida ou suspeita e resposta insuficiente. O kit também propõe concentrado de eritrócitos O Rh-negativo e acesso intraósseo quando adequado; não são obrigatórios em todas as simulações. O cenário não deve exigir volume por prolapso ou palidez isolada.",
+      "clinicalScenario": {
+        "narrative": "É solicitado à equipa neonatal que assista uma cesariana de emergência por prolapso do cordão umbilical e bradicardia fetal nos últimos 3 minutos. Prevê-se um bebé de termo com líquido amniótico claro. O peso estimado para os cálculos do exercício é 3 kg.",
+        "initialState": "O bebé nasce sem tónus e sem respiração. A FC é 50/min se avaliada e continua a diminuir para 30/min. Apesar de ventilação eficaz por via aérea alternativa e 60 segundos de compressões coordenadas, permanece abaixo de 60/min.",
+        "instructorNote": "O caso progride para acesso venoso umbilical e adrenalina. Se o instrutor utilizar a opção de volume, deve comunicar perda sanguínea conhecida ou suspeita e resposta insuficiente; este esclarecimento é uma adaptação pedagógica, não um diagnóstico confirmado apenas pelo prolapso.",
+        "source": "Caso do kit, pp. 70–77; narrativa resumida"
+      }
+    }
+  ],
+  "evaluation": {
+    "version": "1.3",
+    "threshold": 80,
+    "pointsPerAction": 2,
+    "criticalTasks": {
+      "2": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "3": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "4": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "5": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
+      "6": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "7": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "origin": "Grelha educativa editorial EDUVESA; não é uma escala oficial AAP/AHA."
+  }
+}
